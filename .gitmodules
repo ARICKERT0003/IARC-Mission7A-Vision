@@ -1,3 +1,6 @@
 [submodule "extern/Image-Processing"]
 	path = extern/Image-Processing
 	url = git@github.com:ARICKERT0003/Image-Processing.git
+[submodule "extern/yaml-cpp"]
+	path = extern/yaml-cpp
+	url = git@github.com:jbeder/yaml-cpp.git
