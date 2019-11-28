@@ -1,0 +1,3 @@
+[submodule "extern/Image-Processing"]
+	path = extern/Image-Processing
+	url = git@github.com:ARICKERT0003/Image-Processing.git
