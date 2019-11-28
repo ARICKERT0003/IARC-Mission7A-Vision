@@ -59,14 +59,10 @@ set(MY_RELEASE_FLAGS
 #############################
 # Source Files
 set(SRC_FILES
-  ${CMAKE_CURRENT_SOURCE_DIR}/src/Stereo.cpp
-  ${CMAKE_CURRENT_SOURCE_DIR}/src/Filter.cpp
 )
 
 # Header Files
 set(HEADER_FILES
-  ${CMAKE_CURRENT_SOURCE_DIR}/inc/Stereo.h
-  ${CMAKE_CURRENT_SOURCE_DIR}/inc/Filter.h
 )
 
 # Libraries
