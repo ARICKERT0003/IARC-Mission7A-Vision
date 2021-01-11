@@ -59,10 +59,12 @@ set(MY_RELEASE_FLAGS
 #############################
 # Source Files
 set(SRC_FILES
+  ${CMAKE_CURRENT_SOURCE_DIR}/src/RobotDetector.cpp
 )
 
 # Header Files
 set(HEADER_FILES
+  ${CMAKE_CURRENT_SOURCE_DIR}/inc/RobotDetector.h
 )
 
 # Libraries
